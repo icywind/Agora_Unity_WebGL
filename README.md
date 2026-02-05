@@ -2,17 +2,27 @@
 
 *[中文](README.zh.md) | English*
 
-This project is the open source WebGL SDK for Unity, a wrapper to the Agora Web SDK 4.x.  
+Welcome to the **Agora Unity WebGL SDK (Community Edition)**! 🎉  
+This project is built and maintained by the community to bring Agora’s real-time engagement features into Unity WebGL. It’s still in **open beta**, so things are evolving quickly — your feedback and contributions are what make this project grow.
 
-## Important Notice
+---
 
-1. **This is a community supported SDK in open beta.**  Do not assume everything works correctly as an official product. Do not expect the same behaviors from the original Unity SDK. **The Agora Support team does not assume responsibility in solving your issues.**
-2. This project is **NOT** compatible with the current official Agora Unity SDK ver. **4.x**
-3. If your just want to get the SDK, **do not clone this project** unless you plan to contribute code.  Instead, go to the [Release](https://github.com/AgoraIO-Community/Agora_Unity_WebGL/releases) section download the package.
-4. Check the [Wiki page](https://github.com/AgoraIO-Community/Agora_Unity_WebGL/wiki) to understand this SDK some more before proceeding to download or asking questions.  
-5. Spatial Audio may not work.
-6. If it is not a bug or improvement request, your question probably should be asked in the [Discussions](https://github.com/AgoraIO-Community/Agora_Unity_WebGL/discussions) page instead. 
-7. Do press the Star to show respect to people who work hard on creation of this SDK on your demand.** 
+### Notes
+
+1. **This is a community-supported SDK in open beta.** Some features might not work perfectly yet, and behavior may differ from the official Unity SDK. **Please note that the Agora Support team cannot provide help for issues with this project.**
+
+2. This SDK is **not compatible** with the official Agora Unity SDK version **4.x**.
+
+3. If you just want to use the SDK, **please don’t clone this repository** unless you plan to contribute code. Instead, download the latest package from the [Releases](https://github.com/AgoraIO-Community/Agora_Unity_WebGL/releases) page.
+
+4. Before downloading or posting questions, check out the [Wiki](https://github.com/AgoraIO-Community/Agora_Unity_WebGL/wiki) — it’s the best place to learn how this SDK works and what to expect.
+
+5. Spatial Audio functionality is limited and may not work as expected.
+
+6. If your post isn’t a bug report or improvement request, please use the [Discussions](https://github.com/AgoraIO-Community/Agora_Unity_WebGL/discussions) section instead.
+
+7. If you find this project helpful, **don’t forget to give it a star!** ⭐ It’s an easy way to show support for the community members who built and maintain this SDK.
+
 
 ## Prerequisites
 - Unity 2019 and up
